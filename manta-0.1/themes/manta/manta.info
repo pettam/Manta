@@ -1,0 +1,9 @@
+name = Manta base theme
+version = 0.1
+
+[regions]
+content = Content
+
+[javascripts]
+
+[stylesheets]

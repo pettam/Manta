@@ -1,0 +1,4 @@
+name = Singleton
+version = 0.1
+requires = 
+dependencies = data-0.1, utilities-0.1

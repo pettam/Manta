@@ -1,0 +1,4 @@
+name = Page
+version = 0.1
+requires = singleton-0.1, utilities-0.1, manta-0.1
+dependencies = data-0.1

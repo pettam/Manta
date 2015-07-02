@@ -1,0 +1,5 @@
+name = Manta
+version = 0.1
+requires = data-0.1, singleton-0.1
+dependencies = database-0.1, modules-0.1, page-0.1, utilities-0.1, log-0.1
+php = php-5.3

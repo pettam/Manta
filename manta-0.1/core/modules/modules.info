@@ -1,0 +1,4 @@
+name = Modules
+version = 0.1
+requires = manta-0.1, singleton-0.1
+dependencies =

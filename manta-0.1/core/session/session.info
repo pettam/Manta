@@ -1,0 +1,4 @@
+name = Session
+version = 0.1
+requires = singleton-0.1, data-0.1, database-0.1, log-0.1, manta-0.1
+dependencies =

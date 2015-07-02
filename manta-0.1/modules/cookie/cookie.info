@@ -1,0 +1,4 @@
+name = Cookie
+version = 0.1
+requires = singleton-0.1, utilities-0.1
+dependencies = manta-0.1

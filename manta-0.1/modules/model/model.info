@@ -1,0 +1,4 @@
+name = Model
+version = 0.1
+requires = singleton-0.1
+dependencies = manta-0.1

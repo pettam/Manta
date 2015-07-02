@@ -1,0 +1,4 @@
+name = Utilities
+version = 0.1
+requires =
+dependencies = manta-0.1
